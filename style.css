@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+ 
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background: url('./image1.jpeg') no-repeat center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 100vh;
+  }
+  
+  .container {
+     
+    margin: auto;
+    border-radius: 5px;
+   
+
+   
+  }
+  
